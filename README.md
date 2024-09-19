@@ -5,7 +5,7 @@ Este repositório contém códigos desenvolvidos para a resolução dos desafios
 
 
 # 📋 Pré-requisitos
-Antes de executar qualquer um dos scripts, você precisará dos seguintes itens:
+Antes de executar qualquer um dos scripts, você precisará do seguinte item:
 
 Python 3.8+ instalado.
 
